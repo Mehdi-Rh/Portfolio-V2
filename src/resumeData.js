@@ -1,30 +1,30 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "name": "Mehdi Rahal",
+    "role": "React Frontend Developer",
+    "linkedinId":" https://www.linkedin.com/in/mehdi-rahal-abdelaziz/",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, read books and judo is my favorite physical discipline.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/mehdi-rahal-abdelaziz/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"hhttps://github.com/Mehdi-Rh",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"https://twitter.com/MRahal92",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I'm a front-end developer with expertise in React, Redux, and Material UI. With a solid foundation in HTML, CSS, and data structures, I bring technical prowess to my projects. I'm skilled in test-driven development (TDD) and version control using Git, GitHub, and GitLab. /n Alongside my technical skills, I excel in communication, thrive in agile environments, and embrace remote work, pair programming, and peer programming. I'm adept at task management with tools like Jira. Beyond coding, I practice judo and indulge in literary books. /n Currently, I work as a front-end developer at Lablabee, enhancing an E-learning platform with maintenance and new feature implementation. /n Let's collaborate and create outstanding user experiences together." ,
+    "address":"Algeria",
+    "website":"https://rbhatia46.github.io",  // Todo
     "education":[
       {
         "UniversityName":"The LNM Insitute of Information Technology",
