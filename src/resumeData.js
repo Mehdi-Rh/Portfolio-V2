@@ -1,11 +1,13 @@
 let resumeData = {
-  imagebaseurl: "https://rbhatia46.github.io/",
+  imagebaseurl: "https://www.linkedin.com/in/mehdi-rahal-abdelaziz/",
   name: "Mehdi Rahal",
   role: "React Frontend Developer",
   linkedinId: " https://www.linkedin.com/in/mehdi-rahal-abdelaziz/",
+  resumeLink:
+    "https://drive.google.com/file/d/1-mOBGFdiFPGbzGQh_b2bg13TAB_BRi2n/view?usp=sharing",
   skypeid: "Your skypeid",
   roleDescription:
-    "I'm a seasoned Front-End Developer ready to bring your vision to life. Check out my projects and experience. If you're ready to collaborate, reach out!",
+    " Ready to bring your vision to life. Check out my projects and experience. If you're ready to collaborate, reach out!",
   socialLinks: [
     {
       name: "linkedin",
@@ -26,7 +28,7 @@ let resumeData = {
   aboutme:
     "Experienced Front-End Developer specializing in React. Proficient in translating Figma designs into interactive web solutions using React and MUI. Skilled in Redux, HTML5/CSS3, React Router, and React Hooks. Adept at optimizing code, creating reusable components, and implementing efficient React design patterns. Agile and Git proficient, promoting effective teamwork and code collaboration. Thrives on tackling complex state management and performance optimization challenges, consistently delivering innovative solutions through a collaborative approach.",
   address: "Algeria",
-  website: "https://rbhatia46.github.io", // Todo
+  website: "https://mehdi-rahal-az.netlify.app/", // Todo
   education: [
     {
       UniversityName: "Microverse Bootcamp",

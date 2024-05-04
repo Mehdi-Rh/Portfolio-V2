@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+import LaunchIcon from "@mui/icons-material/Launch";
+
 export default class Header extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -64,6 +66,16 @@ export default class Header extends Component {
                       </li>
                     );
                   })}
+                <li>
+                  <a
+                    href={resumeData.resumeLink}
+                    style={{ display: "flex", gap: "0.5rem", height: "30px" }}
+                    target="_blank"
+                  >
+                    <h4 style={{ color: "inherit", margin: 0 }}>Resume</h4>{" "}
+                    <LaunchIcon fontSize="large" style={{ height: "30px" }} />
+                  </a>
+                </li>
               </ul>
             </div>
           </div>
