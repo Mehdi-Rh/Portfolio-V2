@@ -4,7 +4,7 @@ let resumeData = {
   role: "React Frontend Developer",
   linkedinId: " https://www.linkedin.com/in/mehdi-rahal-abdelaziz/",
   resumeLink:
-    "https://drive.google.com/file/d/1HjCtmOy3w86bTJTRy_DxnIAgKtAGb-aa/view?usp=sharing",
+    "https://drive.google.com/file/d/1ZNafp0s0tDSWZmk3YxdXbDl7if_Tjjdl/view?usp=sharing",
   skypeid: "Your skypeid",
   roleDescription:
     " Ready to bring your vision to life. Check out my projects and experience. If you're ready to collaborate, reach out!",
