@@ -145,7 +145,7 @@ let resumeData = {
     },
     {
       name: "Bookit Mern",
-      description: "Booking app for meeting/conference rooms, Guest credentials: email: guest@example.com password: guest@example.com2025CAP",
+      description: "Responsive booking app for meeting/conference rooms, Guest credentials: email: guest@example.com password: guest@example.com2025CAP",
       imgurl: "images/myImages/screenshots/Bookit.png",
       demoUrl:
         "https://bookit-mern-c3pj.onrender.com/",
