@@ -152,15 +152,6 @@ let resumeData = {
       skills: ["Javascript", "React", "Express", "MongoDb", "Cloudinary", "React-Router", "Tailwind"],
     },
     {
-      name: "Article Summariser",
-      description:
-        "Summarize any kind of article with just one click using the powerful OpenAI model.",
-      imgurl: "images/myImages/screenshots/Portfolio-2.png",
-      liveUrl: "https://article-summeriser.netlify.app/",
-      sourceUrl: "https://github.com/Mehdi-Rh/Article-Summariser",
-      skills: ["Javascript", "React", "Tailwind"],
-    },
-    {
       name: "Algerian Summit",
       description:
         "This project is a conference responsive website build to showcase the activities of an event, buils with HTML&CSS and Javascript.",
