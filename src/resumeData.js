@@ -144,6 +144,14 @@ let resumeData = {
       skills: ["Javascript", "React", "Redux", "Material-UI"],
     },
     {
+      name: "Bookit Mern",
+      description: "Booking app for meeting/conference rooms, Guest credentials: email: guest@example.com password: guest@example.com2025CAP",
+      imgurl: "images/myImages/screenshots/Bookit.png",
+      demoUrl:
+        "https://bookit-mern-c3pj.onrender.com/",
+      skills: ["Javascript", "React", "Express", "MongoDb", "Cloudinary", "React-Router", "Tailwind"],
+    },
+    {
       name: "Article Summariser",
       description:
         "Summarize any kind of article with just one click using the powerful OpenAI model.",
