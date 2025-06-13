@@ -135,37 +135,39 @@ let resumeData = {
     ],
   },
   portfolio: [
-    {
-      name: "LabLabee",
-      description: "B2B Telco Cloud training platform",
-      imgurl: "images/myImages/screenshots/Portfolio-1.png",
-      demoUrl:
-        "https://www.youtube.com/watch?v=jEniF78rD7E&t=226s&ab_channel=ApisTraining",
-      skills: ["Javascript", "React", "Redux", "Material-UI"],
-    },
-    {
-      name: "Bookit Mern",
-      description: "Responsive booking app for meeting/conference rooms, Guest credentials: email: guest@example.com password: guest@example.com2025CAP",
-      imgurl: "images/myImages/screenshots/Bookit.png",
-      demoUrl:
-        "https://bookit-mern-c3pj.onrender.com/",
-      skills: ["Javascript", "React", "Express", "MongoDb", "Cloudinary", "React-Router", "Tailwind"],
-    },
-    {
-      name: "Algerian Summit",
-      description:
-        "This project is a conference responsive website build to showcase the activities of an event, buils with HTML&CSS and Javascript.",
-      imgurl: "images/myImages/screenshots/Portfolio-3.png",
-      liveUrl: "https://mehdi-rh.github.io/Blog-Capstone",
-      sourceUrl: "https://github.com/Mehdi-Rh/Blog-Capstone",
-      skills: ["Javascript", "HTML", "CSS"],
-    },
-    // {
-    //   name: "project4",
-    //   description: "mobileapp",
-    //   imgurl: "images/myImages/screenshots/Portfolio-4.png",
-    // },
-  ],
+  {
+    "name": "LabLabee",
+    "description": "B2B Telco Cloud training platform",
+    "imgurl": "images/myImages/screenshots/Portfolio-1.png",
+    "demoUrl": "https://www.youtube.com/watch?v=jEniF78rD7E&t=226s&ab_channel=ApisTraining",
+    "skills": ["Javascript", "React", "Redux", "Material-UI"]
+  },
+  {
+    "name": "Bookit Mern",
+    "description": "This is a learning portfolio project where I converted the Booking App built by Brad (owner of Traversy Media) from NextJS to a MERN-based project to sharpen my skills in this stack. Guest credentials: email: guest@example.com password: guest@example.com2025CAP",
+    "imgurl": "images/myImages/screenshots/Bookit.png",
+    "demoUrl": "https://bookit-mern-c3pj.onrender.com/",
+    "sourceUrl": "https://github.com/Mehdi-Rh/Bookit-Mern",
+    "skills": [
+      "Javascript",
+      "React",
+      "Express",
+      "MongoDb",
+      "Cloudinary",
+      "React-Router",
+      "Tailwind"
+    ]
+  },
+  {
+    "name": "Algerian Summit",
+    "description": "This project is a conference responsive website built to showcase the activities of an event, buils with HTML&CSS and Javascript.",
+    "imgurl": "images/myImages/screenshots/Portfolio-3.png",
+    "liveUrl": "https://mehdi-rh.github.io/Blog-Capstone",
+    "sourceUrl": "https://github.com/Mehdi-Rh/Blog-Capstone",
+    "skills": ["Javascript", "HTML", "CSS"]
+  }
+]
+,
   testimonials: [
     {
       description: "This is a sample testimonial",
