@@ -1,9 +1,10 @@
 let resumeData = {
   imagebaseurl: 'https://www.linkedin.com/in/mehdi-rahal-abdelaziz/',
   name: 'Mehdi Rahal',
-  role: 'React Frontend Developer',
+  role: 'Full Stack Developer',
   linkedinId: ' https://www.linkedin.com/in/mehdi-rahal-abdelaziz/',
-  resumeLink: 'https://drive.google.com/file/d/1ZNafp0s0tDSWZmk3YxdXbDl7if_Tjjdl/view?usp=sharing',
+  resumeLink:
+    'https://drive.google.com/drive/folders/1gq-9aKUCUFoaPPxSh12XI0Ft8Fci_F4P?usp=sharing',
   skypeid: 'Your skypeid',
   roleDescription:
     " Ready to bring your vision to life. Check out my projects and experience. If you're ready to collaborate, reach out!",
@@ -25,7 +26,7 @@ let resumeData = {
     },
   ],
   aboutme:
-    'Experienced Front-End Developer specializing in React. Proficient in translating Figma designs into interactive web solutions using React and MUI. Skilled in Redux, HTML5/CSS3, React Router, and React Hooks. Adept at optimizing code, creating reusable components, and implementing efficient React design patterns. Agile and Git proficient, promoting effective teamwork and code collaboration. Thrives on tackling complex state management and performance optimization challenges, consistently delivering innovative solutions through a collaborative approach.',
+    'Experienced Full Stack Developer specializing in the JavaScript and TypeScript ecosystem. Proficient in building end-to-end web applications using Next.js, React, Node.js, and Express. Skilled in translating Figma designs into dynamic, responsive interfaces with React, MUI, and Tailwind CSS. Adept at managing state and data flow using Redux, React Query, and React Hooks. Experienced with RESTful APIs, MongoDB, and PostgreSQL for scalable backend solutions. Agile and Git proficient, ensuring smooth collaboration and CI/CD workflows. Thrives on tackling complex performance and architecture challenges, consistently delivering clean, maintainable, and high-performing solutions.',
   address: 'Algeria',
   website: 'https://mehdi-rahal-az.netlify.app/', // Todo
   education: [
